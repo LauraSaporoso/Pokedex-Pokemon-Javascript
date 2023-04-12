@@ -10,12 +10,12 @@ const colors = {
     ground: '#f4e7da',
     rock: '#d5d5d4',
     fairy: '#fceaff',
-    poison: '#6C22B6',
+    poison: '#9455AA',
     bug: '#f8d5a3',
     dragon: '#97b3e6',
-    psychic: '#eaeda1',
+    psychic: '#FF5599',
     flying: '#F5F5F5',
-    fighting: '#E6E0D4',
+    fighting: '#8899FF',
     normal: '#F5F5F5'
 };
 
